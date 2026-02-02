@@ -14,6 +14,8 @@ sql-data-analytics/
 ├── sample_data.sql               # Sample data for testing and demonstrations
 ├── customer_segmentation.sql     # Customer segmentation queries
 ├── revenue_analysis.sql          # Revenue analysis and performance queries
+├── quick_reference.sql           # Quick snippets for common analytics tasks
+├── usage_examples.sql            # Real-world examples with interpretations
 └── README.md                     # This file
 ```
 
